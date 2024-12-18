@@ -17,4 +17,3 @@ jobs:
       - name: Output the input value
         run: |
           echo "The node version to use is: ${{ inputs.node }}"
-   
